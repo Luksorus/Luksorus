@@ -1,4 +1,4 @@
-<img src = "https://github.com/Luksorus/Luksorus/assets/82079561/b98382f8-0c9a-4f17-aab9-bca4bb713182" width=900 height=300>
+
 
 
 
