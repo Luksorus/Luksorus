@@ -1,4 +1,5 @@
-![image](https://github.com/Luksorus/Luksorus/assets/82079561/d39442a0-7395-4214-ae31-b302a00360e6)
+<img src = "https://github.com/Luksorus/Luksorus/assets/82079561/b98382f8-0c9a-4f17-aab9-bca4bb713182" width=900 height=300>
+
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
