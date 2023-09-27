@@ -3,11 +3,9 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luksors&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Luksors&theme=radical)](https://git.io/streak-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Luksors)](https://git.io/streak-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Luksors&show_icons=true&hide=prs,issues,contribs&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Luksors&show_icons=true&theme=tokyonight)
 
 ### About me
 Hi. My name is Gorbunov Klim. I am a student of RTU MIREA . I am studying in the first year . In the future I want to become a full - stack programmer . At the moment I am studying c++ and trying to write programs in it.I am a graduate of Samsung IT-School on the track of mobile development.
@@ -23,6 +21,7 @@ My stack of tehnologies:
 ![image](https://github.com/Luksorus/profile/assets/82079561/de22e458-f484-4563-b1c9-0ff94c7f5bc4)
 ![image](https://github.com/Luksorus/profile/assets/82079561/833b44e6-d568-4e49-a73d-6274d6387c8c)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luksors&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 What os i'm used:
