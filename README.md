@@ -1,7 +1,6 @@
 ![image](https://github.com/Luksorus/Luksorus/assets/82079561/6648728e-68c2-4449-bb51-30d0ffa5cb7b)
 
 
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
 
@@ -36,7 +35,6 @@ My stack of tehnologies:
 ![image](https://github.com/Luksorus/profile/assets/82079561/de22e458-f484-4563-b1c9-0ff94c7f5bc4)
 ![image](https://github.com/Luksorus/profile/assets/82079561/833b44e6-d568-4e49-a73d-6274d6387c8c)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luksors&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 What os i'm used:
@@ -44,11 +42,6 @@ What os i'm used:
 ![image](https://github.com/Luksorus/profile/assets/82079561/335ca951-a13b-46f9-8ca8-3bbc7c1b8890)
 ![image](https://github.com/Luksorus/profile/assets/82079561/6c55e245-8d9f-4691-a81e-041a824dde02)
 ![image](https://github.com/Luksorus/profile/assets/82079561/8524a4ef-e8bd-4ff1-b246-38742de59242)
-
-
-
-
-
 
 
 
