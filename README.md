@@ -1,7 +1,7 @@
 ![image](https://github.com/Luksorus/Luksorus/assets/82079561/6648728e-68c2-4449-bb51-30d0ffa5cb7b)
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Luksorustheme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Luksorus&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
