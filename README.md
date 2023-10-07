@@ -1,7 +1,7 @@
 ![image](https://github.com/Luksorus/Luksorus/assets/82079561/6648728e-68c2-4449-bb51-30d0ffa5cb7b)
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Luksorustheme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
@@ -14,7 +14,7 @@
 
 
 ### About me
-Hi. My name is Gorbunov Klim. I am a student of RTU MIREA . I am studying in the first year . In the future I want to become a full - stack programmer . At the moment I am studying c++ and trying to write programs in it.I am a graduate of Samsung IT-School on the track of mobile development.
+<b>Hi. My name is Gorbunov Klim. I am a student of RTU MIREA . I am studying in the first year . In the future I want to become a full - stack programmer . At the moment I am studying c++ and trying to write programs in it.I am a graduate of Samsung IT-School on the track of mobile development.</b>
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Full-stack+developer)](https://git.io/typing-svg)
