@@ -1,13 +1,29 @@
-
+![image](https://github.com/Luksorus/Luksorus/assets/82079561/6648728e-68c2-4449-bb51-30d0ffa5cb7b)
 
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Luksors&show_icons=true&theme=tokyonight)
+
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Luksorus&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Luksorus&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Luksorus&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Luksorus&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Luksorus&theme=solarized_dark)
+
+
 
 ### About me
 Hi. My name is Gorbunov Klim. I am a student of RTU MIREA . I am studying in the first year . In the future I want to become a full - stack programmer . At the moment I am studying c++ and trying to write programs in it.I am a graduate of Samsung IT-School on the track of mobile development.
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Full-stack+developer)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Mobile+developer)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Frontend+developer)](https://git.io/typing-svg)
+
 
 My stack of tehnologies:
 
@@ -33,6 +49,13 @@ What os i'm used:
 
 
 
+
+
+
+
 ### Social link
 <a href='https://vk.com/wais_soundprod' target='_blank'> <img alt="Я в ВКонтакте" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/VK.com-logo.svg/1024px-VK.com-logo.svg.png"  width="40" height="40"> </a>
 <a href = 'https://instagram.com/waisqs' target = '_blank'> <img alt="Я в Instagram" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" width="40" height="40"></a>
+
+
+![](https://komarev.com/ghpvc/?username=Luksorus)
