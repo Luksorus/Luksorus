@@ -12,19 +12,20 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Luksorus&theme=solarized_dark)
 
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=DE4AF7&random=false&width=435&lines=About+me)](https://git.io/typing-svg)
 
-### About me
 <b>Hi. My name is Gorbunov Klim. I am a student of RTU MIREA . I am studying in the first year . In the future I want to become a full - stack programmer . At the moment I am studying c++ and trying to write programs in it.I am a graduate of Samsung IT-School on the track of mobile development.</b>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Full-stack+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=1500&color=F7CD4A&random=false&width=435&lines=Fullstack+Developer)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Mobile+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=1500&color=F7CD4A&random=false&width=435&lines=Frontend+Developer)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Frontend+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=1500&color=F7CD4A&random=false&width=435&lines=Mobile+Developer)](https://git.io/typing-svg)
 
 
-My stack of tehnologies:
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=DE4AF7&random=false&width=435&lines=My+stack+of+tehnologies%3A)](https://git.io/typing-svg)
 
 ![image](https://github.com/Luksorus/profile/assets/82079561/4b31352a-ae3f-4a60-849f-9f3ff7a67ec3)
 ![image](https://github.com/Luksorus/profile/assets/82079561/5d66d9f4-7fe7-4c0d-a603-7873304f7edf)
@@ -37,7 +38,7 @@ My stack of tehnologies:
 
 
 
-What os i'm used:
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=DE4AF7&random=false&width=435&lines=What+os+i'm+used%3A)](https://git.io/typing-svg)
 
 ![image](https://github.com/Luksorus/profile/assets/82079561/335ca951-a13b-46f9-8ca8-3bbc7c1b8890)
 ![image](https://github.com/Luksorus/profile/assets/82079561/6c55e245-8d9f-4691-a81e-041a824dde02)
@@ -45,8 +46,8 @@ What os i'm used:
 
 
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=DE4AF7&random=false&width=435&lines=Social+link)](https://git.io/typing-svg)
 
-### Social link
 <a href='https://vk.com/wais_soundprod' target='_blank'> <img alt="Я в ВКонтакте" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/VK.com-logo.svg/1024px-VK.com-logo.svg.png"  width="40" height="40"> </a>
 <a href = 'https://instagram.com/waisqs' target = '_blank'> <img alt="Я в Instagram" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" width="40" height="40"></a>
 
