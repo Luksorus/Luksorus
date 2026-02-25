@@ -1,14 +1,9 @@
-![image](https://github.com/Luksorus/Luksorus/assets/82079561/6648728e-68c2-4449-bb51-30d0ffa5cb7b)
-
-
-
-
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Luksorus&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Luksorus&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Luksorus&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Luksorus&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Luksorus&theme=solarized_dark)
+
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=DE4AF7&random=false&width=435&lines=About+me)](https://git.io/typing-svg)
@@ -41,10 +36,6 @@
 ![image](https://github.com/Luksorus/profile/assets/82079561/6c55e245-8d9f-4691-a81e-041a824dde02)
 ![image](https://github.com/Luksorus/profile/assets/82079561/8524a4ef-e8bd-4ff1-b246-38742de59242)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=DE4AF7&random=false&width=435&lines=Social+link)](https://git.io/typing-svg)
-
-<a href='https://vk.com/gorbunov_kl' target='_blank'> <img alt="Я в ВКонтакте" src="https://firebasestorage.googleapis.com/v0/b/icon-finder-91d39.appspot.com/o/icons%2Fbrand%2Fvk.svg?alt=media&token=73d5db21-f04b-4f39-b53a-b70fea8a8fc1"  width="40" height="40"> </a>
-<a href = 'https://instagram.com/waisqs' target = '_blank'> <img alt="Я в Instagram" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" width="40" height="40"></a>
 
 
 ![](https://komarev.com/ghpvc/?username=Luksorus)
